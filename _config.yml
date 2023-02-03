@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 
 title: Yang Shu                          # the main title
 
-tagline: 今天树酱的精神状态也十分稳定   # it will display as the sub-title
+tagline: 今天树酱的精神状态也十分稳定呢（阳光且健康奔跑跨栏）   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
